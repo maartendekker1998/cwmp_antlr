@@ -1,7 +1,7 @@
-parser grammar XMLParser;
+parser grammar CWMPParser;
 
 options {
-    tokenVocab = XMLLexer;
+    tokenVocab = CWMPLexer;
 }
 
 

@@ -6,7 +6,7 @@
             "type": "antlr-debug",
             "request": "launch",
             "input": "input_messages/fault.xml",
-            "grammar": "XMLParser.g4",
+            "grammar": "CWMPParser.g4",
             "printParseTree": true,
             "visualParseTree": true
         }
